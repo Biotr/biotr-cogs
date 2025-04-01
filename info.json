@@ -1,0 +1,10 @@
+{
+    "author" : ["Biotr"],
+    "install_msg" : "Let these Bible quotes fill you. Ahhhh....",
+    "name" : "Biotr",
+    "short" : "Random Bible quote",
+    "description" : "Post random Bible quote",
+    "disabled" : false,
+    "tags" : ["Bible", "God", "Jesus"],
+    "min_bot_version": "3.5.0"
+}
